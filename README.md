@@ -123,6 +123,13 @@ http://localhost:5010
 ```
 
 ---
+# Dashboard Preview
+
+![Overview](screenshots/dashboard_overview.png)
+
+![Africa Map](screenshots/africa_map.png)
+
+![Machine Learning](screenshots/ml_clustering.png)
 
 # 📊 Example Insights
 
